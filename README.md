@@ -1,4 +1,4 @@
-# 👋 Greetings, Earthlings! I’m @Buraito-stack
+# 👋 Greetings,I’m @Buraito-stack
 
 Welcome to my digital playground! Here, I conjure back-end magic with a sprinkle of Laravel!
 
