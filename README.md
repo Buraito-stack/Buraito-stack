@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Bryant usually called 
+# 👋 Hi, I'm Bryant usually called as Bry
 
 ### 💻 Fullstack Developer | Laravel Enthusiast | API Architect  
 
