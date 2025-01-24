@@ -42,8 +42,7 @@ Selamat datang di profil GitHub saya! Saya fokus pada pengembangan backend, API 
 </div>  
 
 - 🌐 Membuat API yang tangguh dan performa tinggi untuk aplikasi skala besar.  
-- 🛠️ Mengembangkan keterampilan fullstack, termasuk Laravel dan WordPress.  
-- 🔒 Mendalami praktik keamanan web seperti session-based authentication.  
+- 🛠️ Mengembangkan keterampilan fullstack, termasuk Laravel dan WordPress.   
 
 ---
 
