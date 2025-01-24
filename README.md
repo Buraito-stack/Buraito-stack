@@ -24,12 +24,13 @@ Selamat datang di profil GitHub saya! Saya fokus pada pengembangan backend, API 
 
 ## 📊 GitHub Overview  
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Buraito-stack&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" alt="Most used Language" />
-</div>
-
-<div align="right">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Buraito-stack&theme=radical" alt="GitHub Streak Stats" />
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Buraito-stack&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" alt="Most used Language" />
+  </div>
+  <div>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Buraito-stack&theme=radical" alt="GitHub Streak Stats" />
+  </div>
 </div>
 
 ---
