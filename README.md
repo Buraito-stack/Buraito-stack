@@ -49,7 +49,7 @@ Selamat datang di profil GitHub saya! Saya fokus pada pengembangan backend, API 
 ## 🏆 Highlights  
 
 <div align="center">
-  <img src="https://media.giphy.com/media/uOAyXaREzn6Noz5yrZ/giphy.gif?cid=790b7611kaev0nl1w5kie3oaeul4fi9s1cordxic6bo2b3kt&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200" alt="Trophy GIF">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWtmMXoyZ3R4NnE0NzdzZTZ2OWhodDRlOWs3dDhpYTJkOHdnbXozMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3jzxDoSCgSHSvZz5t4/giphy.gif width="200" alt="Trophy GIF">
 </div>  
 
 - 🚀 Berkontribusi pada berbagai proyek backend yang sukses.  
