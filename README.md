@@ -41,8 +41,9 @@ Selamat datang di profil GitHub saya! Saya fokus pada pengembangan backend, API 
   <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="200" alt="Coding GIF">
 </div>  
 
-- 🌐 Membuat API yang tangguh dan performa tinggi untuk aplikasi skala besar.  
-- 🛠️ Mengembangkan keterampilan fullstack, termasuk Laravel dan WordPress.   
+- 🌐 Mempelajari Front-End dengan menguasai Tailwind CSS
+- 🛠️ Mengembangkan keterampilan fullstack, termasuk Laravel dan WordPress.  
+- 🎨 Mengembangkan Kemampuan UI Designer di Figma
 
 ---
 
