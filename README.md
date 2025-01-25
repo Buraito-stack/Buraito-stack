@@ -8,7 +8,7 @@ Selamat datang di profil GitHub saya! Saya fokus pada pengembangan backend, API 
 
 ## 🛠️ Technologies & Tools  
 
-<div style="display: flex; flex-wrap: wrap; align-items: center;">
+<div style="display: center; flex-wrap: wrap; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40" style="margin-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40" style="margin-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40" style="margin-right: 10px;"/>
