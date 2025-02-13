@@ -12,6 +12,7 @@ Selamat datang di profil GitHub saya! Saya biasanya fokus pada pengembangan back
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40" style="margin-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40" style="margin-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40" style="margin-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40" style="margin-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" title="TailwindCSS" alt="TailwindCSS" width="40" height="40" />
