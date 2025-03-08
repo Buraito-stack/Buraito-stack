@@ -47,7 +47,7 @@ Selamat datang di profil GitHub saya! Saya biasanya fokus pada pengembangan back
 </div>  
 
 - 🌐 Mempelajari Front-End dengan menguasai Tailwind CSS
-- 🛠️ Mengembangkan keterampilan Back-End, diantara nya Laravel 12 
+- 🛠️ Mengembangkan keterampilan Back-End, diantara nya PHP Native dan Laravel 12 
 - 🎨 Mengembangkan Kemampuan UI Designer di Figma
 
 ---
