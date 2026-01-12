@@ -24,6 +24,7 @@ Selamat datang di profil GitHub saya! Saya biasanya fokus pada pengembangan back
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" title="PHPStorm" alt="PHPStorm" width="40" height="40" style="margin-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40" style="margin-right: 10px;"/>
   <img src="https://avatars.githubusercontent.com/u/900076?s=200&v=4" title="cs cart" alt="cscart" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/node-js.svg" title="Node.js" alt="Node.js" width="40" height="40" style="margin-right: 10px;"/>
 </div>
 
 ---
