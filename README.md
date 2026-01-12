@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Buraito , usually called as Bryant
 
-### 💻 Fullstack Developer | Laravel Enthusiast | API Architect  
+### 💻 Fullstack Developer | PHP Enthusiast | API Architect  
 
 Selamat datang di profil GitHub saya! Saya biasanya fokus pada pengembangan backend, API yang scalable, dan solusi berbasis Laravel. Namun ,Saya mulai merambat di dalam dunia fullstack. 
 
