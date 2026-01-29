@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Buraito , usually called as Bryant
+# Hi, I'm Buraito (Bryant) 👋
 
-### 💻 Fullstack Developer | PHP Enthusiast | API Architect  
+### 💻 Backend Specialist | PHP Architect | AI Implementation Enthusiast
 
-Selamat datang di profil GitHub saya! Saya biasanya fokus pada pengembangan backend, API yang scalable, dan solusi berbasis Laravel. Namun ,Saya mulai merambat di dalam dunia fullstack. 
+Welcome to my digital workshop! I am a developer who thrives on building scalable backend systems, robust APIs, and high-performance solutions. While my roots are deep in backend architecture, I am currently expanding my horizons into fullstack development to deliver end-to-end digital experiences.
 
 ---
 
@@ -48,9 +48,10 @@ Selamat datang di profil GitHub saya! Saya biasanya fokus pada pengembangan back
   <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="200" alt="Coding GIF">
 </div>  
 
-- 🌐 Mempelajari Front-End dengan menguasai Tailwind CSS
-- 🛠️ Mengembangkan keterampilan Back-End, diantara nya PHP Native dan Laravel 12 
-- 🎨 Mengembangkan Kemampuan UI Designer di Figma
+- 🌐 **Frontend Mastery:** Mastering **Tailwind CSS** to build modern, responsive interfaces.
+- 🛠️ **Deep Dive Backend:** Exploring the latest features of **Laravel 12** and optimizing long-running PHP processes.
+- 🎨 **UI/UX Design:** Refining my design eye in **Figma** to bridge the gap between logic and aesthetics.
+- 🤖 **AI Research:** Developing and evaluating AI models for real-world applications (Object Detection & Automated Reasoning).
 
 ---
 
@@ -60,6 +61,6 @@ Selamat datang di profil GitHub saya! Saya biasanya fokus pada pengembangan back
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWtmMXoyZ3R4NnE0NzdzZTZ2OWhodDRlOWs3dDhpYTJkOHdnbXozMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3jzxDoSCgSHSvZz5t4/giphy.gif" width="200" alt="Trophy GIF">
 </div>  
 
-- 🚀 Berkontribusi pada berbagai proyek backend yang sukses.  
-- 🧑‍💻 Mempraktikkan clean code dan clean architecture untuk solusi jangka panjang.  
-- 💡 Bersemangat mempelajari teknologi baru dan memperluas skill fullstack.  
+-- 🚀 **Industry Experience:** Experienced in collaborating within a professional software house environment, focusing on production-level backend tasks and API development.
+- 🧑‍💻 **Clean Code Advocate:** I live by the principles of Clean Code and Clean Architecture to ensure long-term maintainability.
+- 💡 **Continuous Learner:** Passionate about staying ahead of the tech curve and turning complex problems into elegant code.
