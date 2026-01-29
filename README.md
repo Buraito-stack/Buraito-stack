@@ -61,6 +61,6 @@ Welcome to my digital workshop! I am a developer who thrives on building scalabl
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWtmMXoyZ3R4NnE0NzdzZTZ2OWhodDRlOWs3dDhpYTJkOHdnbXozMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3jzxDoSCgSHSvZz5t4/giphy.gif" width="200" alt="Trophy GIF">
 </div>  
 
--- 🚀 **Industry Experience:** Experienced in collaborating within a professional software house environment, focusing on production-level backend tasks and API development.
+- 🚀 **Industry Experience:** Experienced in collaborating within a professional software house environment, focusing on production-level backend tasks and API development.
 - 🧑‍💻 **Clean Code Advocate:** I live by the principles of Clean Code and Clean Architecture to ensure long-term maintainability.
 - 💡 **Continuous Learner:** Passionate about staying ahead of the tech curve and turning complex problems into elegant code.
