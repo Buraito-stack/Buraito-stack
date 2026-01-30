@@ -1,6 +1,6 @@
 # Hi, I'm Buraito (Bryant) 👋
 
-### 💻 Backend Specialist | PHP Architect | AI Implementation Enthusiast
+### 💻 Backend Developer | PHP Specialist | AI Implementation Enthusiastt
 
 Welcome to my digital workshop! I am a developer who thrives on building scalable backend systems, robust APIs, and high-performance solutions. While my roots are deep in backend architecture, I am currently expanding my horizons into fullstack development to deliver end-to-end digital experiences.
 
